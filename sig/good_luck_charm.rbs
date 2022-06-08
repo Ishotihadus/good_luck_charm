@@ -1,0 +1,9 @@
+class GoodLuckCharm
+  VERSION: String
+
+  @current_time: Time?
+  @last_time: Time?
+
+  def tondeke!: -> self
+  def changed_per?: (Numeric seconds, ?init: bool) -> bool
+end
