@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    good_luck_charm (0.1.0)
+    good_luck_charm (0.1.1)
       rounding
 
 GEM
